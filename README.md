@@ -1,5 +1,6 @@
 # Snake V3
 Snake Game
+![Game snapshot](<Game Screenshot.png>)
 
 One of my old projects I coded when I was around 13. Enjoy!
 
